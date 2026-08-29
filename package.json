@@ -1,0 +1,17 @@
+{
+  "name": "mineflayer-schembuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Ash",
+  "license": "ISC",
+  "dependencies": {
+    "@miner-org/mineflayer-baritone": "^4.6.2",
+    "@miner-org/mineflayer-schemreader": "^0.0.2",
+    "@nxg-org/mineflayer-util-plugin": "^1.9.4",
+    "gen-minflayer": "github:GenerelSchwerz/mineflayer",
+    "mineflayer": "^4.38.0"
+  }
+}
